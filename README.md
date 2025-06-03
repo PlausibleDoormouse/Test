@@ -1,2 +1,2 @@
 # Test
-sharing useless code for learning
+sharing code for learning
